@@ -132,25 +132,47 @@ HEDCM representation
 
 ## Примеры отчётов
 
+На GitHub отчёты развёрнуты на всю ширину страницы, чтобы их можно было просматривать ближе к тому, как они выглядят в Google Colab. Нажмите на изображение, чтобы открыть оригинал отдельно и увеличить его.
+
 ### RGB — классификация CNN
 
-![RGB classification report](docs/images/rgb_classification_report.png)
+<a href="docs/images/rgb_classification_report.png">
+  <img src="docs/images/rgb_classification_report.png" alt="RGB classification report" width="100%">
+</a>
+
+[Открыть RGB-ноутбук в репозитории](notebooks/01_RGB.ipynb)
 
 ### HEDCM — классификация CNN
 
-![HEDCM classification report](docs/images/hedcm_classification_report.png)
+<a href="docs/images/hedcm_classification_report.png">
+  <img src="docs/images/hedcm_classification_report.png" alt="HEDCM classification report" width="100%">
+</a>
+
+[Открыть HEDCM-ноутбук в репозитории](notebooks/06_HEDCM.ipynb)
 
 ### Turbo — классификация CNN
 
-![Turbo classification report](docs/images/turbo_classification_report.png)
+<a href="docs/images/turbo_classification_report.png">
+  <img src="docs/images/turbo_classification_report.png" alt="Turbo classification report" width="100%">
+</a>
+
+[Открыть Turbo-ноутбук в репозитории](notebooks/05_TURBO.ipynb)
 
 ### RGB — локализация и сравнение рамок
 
-![RGB localization report](docs/images/rgb_localization_report.png)
+<a href="docs/images/rgb_localization_report.png">
+  <img src="docs/images/rgb_localization_report.png" alt="RGB localization report" width="100%">
+</a>
+
+[Открыть RGB-ноутбук с полным выводом](notebooks/01_RGB.ipynb)
 
 ### HEDCM — локализация и сравнение рамок
 
-![HEDCM localization report](docs/images/hedcm_localization_report.png)
+<a href="docs/images/hedcm_localization_report.png">
+  <img src="docs/images/hedcm_localization_report.png" alt="HEDCM localization report" width="100%">
+</a>
+
+[Открыть HEDCM-ноутбук с полным выводом](notebooks/06_HEDCM.ipynb)
 
 ## Логика эксперимента
 
