@@ -132,47 +132,64 @@ HEDCM representation
 
 ## Примеры отчётов
 
-На GitHub отчёты развёрнуты на всю ширину страницы, чтобы их можно было просматривать ближе к тому, как они выглядят в Google Colab. Нажмите на изображение, чтобы открыть оригинал отдельно и увеличить его.
+> **Важно:** длинные PNG-превью ниже сохранены в исходном размере и **не растягиваются**.  
+> Для просмотра в качестве, максимально близком к Google Colab, открывайте соответствующий `.ipynb`: GitHub показывает встроенные output-графики ноутбука в исходном разрешении.
 
 ### RGB — классификация CNN
 
+[![Открыть RGB notebook](https://img.shields.io/badge/Open-RGB_notebook-2ea44f?logo=github)](notebooks/01_RGB.ipynb)
+
 <a href="docs/images/rgb_classification_report.png">
-  <img src="docs/images/rgb_classification_report.png" alt="RGB classification report" width="100%">
+  <img src="docs/images/rgb_classification_report.png" alt="RGB classification report">
 </a>
 
-[Открыть RGB-ноутбук в репозитории](notebooks/01_RGB.ipynb)
+**[Открыть полный RGB-ноутбук с исходными графиками и выводами →](notebooks/01_RGB.ipynb)**
 
 ### HEDCM — классификация CNN
 
+[![Открыть HEDCM notebook](https://img.shields.io/badge/Open-HEDCM_notebook-2ea44f?logo=github)](notebooks/06_HEDCM.ipynb)
+
 <a href="docs/images/hedcm_classification_report.png">
-  <img src="docs/images/hedcm_classification_report.png" alt="HEDCM classification report" width="100%">
+  <img src="docs/images/hedcm_classification_report.png" alt="HEDCM classification report">
 </a>
 
-[Открыть HEDCM-ноутбук в репозитории](notebooks/06_HEDCM.ipynb)
+**[Открыть полный HEDCM-ноутбук с исходными графиками и выводами →](notebooks/06_HEDCM.ipynb)**
 
 ### Turbo — классификация CNN
 
+[![Открыть Turbo notebook](https://img.shields.io/badge/Open-Turbo_notebook-2ea44f?logo=github)](notebooks/05_TURBO.ipynb)
+
 <a href="docs/images/turbo_classification_report.png">
-  <img src="docs/images/turbo_classification_report.png" alt="Turbo classification report" width="100%">
+  <img src="docs/images/turbo_classification_report.png" alt="Turbo classification report">
 </a>
 
-[Открыть Turbo-ноутбук в репозитории](notebooks/05_TURBO.ipynb)
+**[Открыть полный Turbo-ноутбук с исходными графиками и выводами →](notebooks/05_TURBO.ipynb)**
 
 ### RGB — локализация и сравнение рамок
 
 <a href="docs/images/rgb_localization_report.png">
-  <img src="docs/images/rgb_localization_report.png" alt="RGB localization report" width="100%">
+  <img src="docs/images/rgb_localization_report.png" alt="RGB localization report">
 </a>
 
-[Открыть RGB-ноутбук с полным выводом](notebooks/01_RGB.ipynb)
+**[Открыть RGB-ноутбук: GT / RGB / FILTER, метрики и E2E →](notebooks/01_RGB.ipynb)**
 
 ### HEDCM — локализация и сравнение рамок
 
 <a href="docs/images/hedcm_localization_report.png">
-  <img src="docs/images/hedcm_localization_report.png" alt="HEDCM localization report" width="100%">
+  <img src="docs/images/hedcm_localization_report.png" alt="HEDCM localization report">
 </a>
 
-[Открыть HEDCM-ноутбук с полным выводом](notebooks/06_HEDCM.ipynb)
+**[Открыть HEDCM-ноутбук: GT / FILTER, метрики и E2E →](notebooks/06_HEDCM.ipynb)**
+
+### Остальные представления
+
+| Представление | Полный notebook |
+|---|---|
+| Grayscale | [Открыть 02_GRAYSCALE.ipynb](notebooks/02_GRAYSCALE.ipynb) |
+| Viridis | [Открыть 03_VIRIDIS.ipynb](notebooks/03_VIRIDIS.ipynb) |
+| Inferno | [Открыть 04_INFERNO.ipynb](notebooks/04_INFERNO.ipynb) |
+| Turbo | [Открыть 05_TURBO.ipynb](notebooks/05_TURBO.ipynb) |
+| HEDCM | [Открыть 06_HEDCM.ipynb](notebooks/06_HEDCM.ipynb) |
 
 ## Логика эксперимента
 
